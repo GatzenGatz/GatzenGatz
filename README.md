@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**LordofMaul/LordofMaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,arch,linux,python,latex" alt="Skill Icons" />
+    <br>
+    <h1>Cats are cute :3</h1>
+</div>
+<h1>Stats</h1>
+    <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LordofMaul&include_orgs=true&theme=tokyonight" alt="Github Profile Summary">
+        <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=LordofMaul&include_orgs=true&theme=tokyonight&layout=compact&langs_count=10" alt="Github Langs">
+    </p>
