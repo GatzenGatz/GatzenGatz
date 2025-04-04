@@ -8,3 +8,4 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LordofMaul&include_orgs=true&theme=tokyonight" alt="Github Profile Summary">
         <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=LordofMaul&include_orgs=true&theme=tokyonight&layout=compact&langs_count=10" alt="Github Langs">
     </p>
+    
