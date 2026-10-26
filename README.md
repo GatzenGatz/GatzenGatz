@@ -6,5 +6,5 @@
 <img src="https://iconic-api.onrender.com/dark/fedora" width="64px" />
 <div>
     <br>
-    <big>Cats are cute :3</big>
+    <span style="font-size:0.5cm;">Cats are cute :3</span>
 </div>
