@@ -1,5 +1,11 @@
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=fedora,linux,git,python,latex" alt="Skill Icons" />
+    <div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/latex" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/git" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/linux" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/fedora" width="64px" />
+<div>
     <br>
     <h1>Cats are cute :3</h1>
 </div>
